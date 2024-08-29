@@ -1,2 +1,3 @@
 # python
-my first repo
+my first repository
+Developer - Abhijit Mohanty
